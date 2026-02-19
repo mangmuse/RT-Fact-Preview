@@ -1,7 +1,7 @@
 # RT-Fact
 
 <div align="center">
-<img src="./assets/banner.png" alt="RT-Fact" width="50%" />
+<img src="https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/banner.png" alt="RT-Fact" width="50%" />
 </div>
 
 <div align="center">
@@ -139,7 +139,7 @@ LangChain 대비 학습 곡선이 있고, asyncio 대비 초기 설정 코드량
 
 | Before | After |
 |:------:|:-----:|
-| ![입력 전](./assets/factcheck-before.png) | ![결과](./assets/factcheck-after.png) |
+| ![입력 전](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/factcheck-before.png) | ![결과](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/factcheck-after.png) |
 
 ### 수정 적용
 
@@ -147,7 +147,7 @@ LangChain 대비 학습 곡선이 있고, asyncio 대비 초기 설정 코드량
 
 | Before | After |
 |:------:|:-----:|
-| ![수정 전](./assets/apply-suggestion-before.png) | ![수정 후](./assets/apply-suggestion-after.png) |
+| ![수정 전](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/apply-suggestion-before.png) | ![수정 후](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/apply-suggestion-after.png) |
 
 ### MCP 서버
 
@@ -155,7 +155,7 @@ Claude, Cursor 등 AI 도구에서 MCP 서버로 팩트체크 기능을 직접 �
 
 | 요청 | 결과 |
 |:----:|:----:|
-| ![MCP 요청](./assets/mcp-request.png) | ![MCP 결과](./assets/mcp-result.png) |
+| ![MCP 요청](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/mcp-request.png) | ![MCP 결과](https://raw.githubusercontent.com/mangmuse/RT-Fact-Preview/main/assets/mcp-result.png) |
 
 ---
 
